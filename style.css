@@ -1,0 +1,32 @@
+.heading{
+    width: 100%;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer{
+    text-align: center;
+    background-color: cornflowerblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    font-size: 20px;
+    color: white;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    background-color: rgb(52, 18, 206);
+    border: 10px;
+    box-shadow: 5px 5px 5px rgb(109, 153, 215);
+}
